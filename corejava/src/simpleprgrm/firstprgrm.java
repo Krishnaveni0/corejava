@@ -2,9 +2,15 @@ package simpleprgrm;
 
 public class firstprgrm {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
-	}
 
-}
+public class firstprgrm {
+  public   int  a=9;// data member
+    private float g=9.6f;
+    protected int s=5;
+  
+  int d=3;
+    void main() { // member function
+    	
+    }
+	
