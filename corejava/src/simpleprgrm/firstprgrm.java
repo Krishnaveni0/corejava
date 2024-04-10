@@ -8,5 +8,6 @@ public class firstprgrm {
   
   int d=3;
     void main() { // member function
+    System.out.println(d)
     }
 	
